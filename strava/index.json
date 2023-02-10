@@ -1,0 +1,9 @@
+{
+  "name": "strava",
+  "description": "Strava Connector",
+  "triggers": [],
+  "actions": [],
+  "version": 1,
+  "auth_type": "basic",
+  "doc_link": ""
+}

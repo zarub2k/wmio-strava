@@ -1,0 +1,9 @@
+{
+  "name": "strava",
+  "version": "1.0.0",
+  "description": "Strava Connector",
+  "dependencies": {
+    "request": "2.55.0",
+    "@webmethodsio/cli-sdk": "*"
+  }
+}
